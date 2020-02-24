@@ -76,7 +76,7 @@ end
 def apply_clearance(cart)
 counter = 0 
 while counter < cart.length do
- if 
+ if c
  
  
  counter += 1 
